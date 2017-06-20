@@ -1,0 +1,17 @@
+body{
+	Background: url("6.jpg") center fixed;
+}
+.rev{
+	color:#FF69C5;
+	font-size:135%;	
+	padding-top:1cm;
+}
+.div{
+	color:#FAFFD7;
+	font-size:135%;	
+	padding-bottom:1cm;
+	padding-top:1cm;
+}
+tr{
+	color:#FAFFD7;
+}

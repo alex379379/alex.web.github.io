@@ -1,0 +1,47 @@
+body{
+	background: url("2.jpg") fixed center;
+}
+.Email{
+	padding:1cm 1cm 1cm 1cm;
+	font-size:175%;
+	text-align: center ;
+	color:#7893FF;
+}
+.Login{
+	padding:1cm 1cm 1cm 1cm;
+    color:#FF8E78;
+	font-size:175%;
+	text-align: center ;
+}
+.Pass{
+	padding:1cm 1cm 1cm 1cm;
+    color:#FF7155;
+	font-size:175%;
+	text-align: center ;
+}
+.reg{
+	font-size:175%;	
+	margin-top:1cm;
+	margin-left:15cm;
+}
+.home1{
+	font-size:200%;
+	padding:2cm 4cm 3cm 4cm;
+	text-align: center ;
+	
+}
+.Email1{
+	margin-left:14cm;
+	font-size:100%;
+	text-align: center ;
+}
+.Login1{
+	margin-left:14cm;
+	font-size:100%;
+	text-align: center ;
+}
+.Pass1{
+	font-size:100%;
+	margin-left:14cm;
+	text-align: center; 
+}

@@ -1,0 +1,15 @@
+body{
+	background: url("4.jpg") fixed center;
+}
+.home{
+	font-size:135%;	
+	padding-top:1cm;
+}
+.news{
+	font-size:135%;
+	padding:1cm 1cm 1cm 1cm;
+}
+.video{
+	font-size:200%;	
+	padding:1cm 1cm 1cm 1cm;
+}

@@ -1,0 +1,58 @@
+body{
+	background: url('1.jpg') fixed center;
+ 
+}
+
+
+.hello
+    {
+	color: red;
+	margin-top:5cm;
+	
+    }
+.home {
+	padding-top:10px;
+border-top:thick double #ff0000;
+	color:blue;
+}	
+.register{
+	margin-left:14cm;
+	margin-top:3cm;
+	font-size:200%;
+}
+.world {
+	
+	font-size:200%;
+	
+}
+.come{
+	margin-left:15cm;
+	font-size:200%;
+}
+.top1{
+	font-size:250%;
+	margin-left:13cm;
+	font:arial,sans-serif;
+
+}
+.top2{
+	
+	font-size:250%;
+	margin-left:2cm;
+}
+
+.top3{
+	
+	font-size:250%;
+	margin-left:2cm;
+}
+.top4{
+	
+	font-size:250%;
+	margin-left:2cm;
+}
+.welcome{
+	font-size:250%;
+	margin-top:3cm;
+	margin:13cm;
+}

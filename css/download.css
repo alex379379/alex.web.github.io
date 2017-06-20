@@ -1,0 +1,15 @@
+body{
+	 Background: url("5.jpg") fixed center;
+}
+
+.sys{
+	color:#FF69C5;
+	margin-down:15cm;
+	text-indent:50;
+	font-size:125%;	
+	
+}
+.home{
+	padding:1cm 1cm 1cm 1cm;
+	font-size:175%;	
+}

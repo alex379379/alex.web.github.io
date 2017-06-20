@@ -1,0 +1,25 @@
+body{
+	 Background: url("3.jpg") fixed center;
+	 
+}
+
+.home1{
+	font-size:200%;	
+	color:blue;
+}
+.l1{
+    padding-top:1cm;
+	font-size:175%;
+}
+.p1{
+    padding-top:1cm;
+	font-size:175%;
+}
+.home{
+	font-size:180%;
+	padding:1cm 1cm 1cm 1cm;
+}
+.log{
+	padding-top:1cm;
+	font-size:175%;
+}
